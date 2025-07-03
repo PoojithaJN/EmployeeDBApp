@@ -56,3 +56,6 @@ To build a menu-driven employee management system that allows:
    static final String DB_URL = "jdbc:mysql://localhost:3306/testdb";
    static final String DB_USER = "root";
    static final String DB_PASS = "your_password";
+7. **Run the Program:**
+   - In Eclipse, right-click on `EmployeeDBApp.java`.
+   - Select **Run As > Java Application**.
